@@ -1,4 +1,4 @@
-# I'm Nicolas Jacó,
+# I'm Nicolas Jacó
 
 A technology enthusiast front-end developer with 20 years of age, I am constantly enhancing my skills in React, JavaScript, HTML, CSS, Tailwind, TypeScript, among other frameworks and libraries. 
 
@@ -11,8 +11,8 @@ My commitment to continuous learning keeps me up to date and prepared to take on
 <span title="SASS"><img  height="32" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SASS" /></span>
 <span title="TailwindCSS"><img height="32" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" /></span>
 <span title="Styled Components"><img height="32" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="Styled Components" /></span>
-<span title="Material UI"><img height="32" src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="Material UI" /></span>
 
+<span title="Material UI"><img height="32" src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="Material UI" /></span>
 <span title="JavaScript"><img height="32" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" /></span>
 <span title="TypeScript"><img height="32" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /></span>
 <span title="ReactJS"><img  height="32" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="ReactJS" /></span>
